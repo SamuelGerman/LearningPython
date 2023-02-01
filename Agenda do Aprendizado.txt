@@ -1,0 +1,3 @@
+Dia 1/02/23:
+  Criei diversos projetos em python utilizando laços de repetição, operadores lógicos, if's, listas, a biblioteca random, dentre outros. Caso tenha duvida no uso de
+alguma dessas funcionalidades, entre em algum programa commitado no dia 1/02 e tente relembrar o que voce fez.
