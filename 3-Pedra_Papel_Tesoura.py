@@ -22,19 +22,24 @@ while True:
         jogada_maquina = possiveis_jogadas[random.randint(0,2)] # vai escolher um dos indices da lista de possiveis jogadas
         # 0 = pedra , 1 = papel , 2 = tesoura.
         if opcao == "pedra" and jogada_maquina == "tesoura":
+            print("A maquina jogou",jogada_maquina)
             print("Usuario venceu!")
             vitorias_usuario+=1
         elif opcao == "papel" and jogada_maquina == "pedra":
+            print("A maquina jogou",jogada_maquina)
             print("Usuario venceu!")
             vitorias_usuario+=1
         elif opcao == "tesoura" and jogada_maquina =="papel":
+            print("A maquina jogou",jogada_maquina)
             print("Usuario venceu!")
             vitorias_usuario+=1
         elif opcao == jogada_maquina:
+            print("A maquina jogou",jogada_maquina)
             print("Empate!")
             empates+=1
         else:
             vitorias_maquina+=1
+            print("A maquina jogou",jogada_maquina)
             print("Computador venceu!")
 print("O usuario venceu",vitorias_usuario,"vezes")
 print("A maquina venceu",vitorias_maquina,"vezes")
