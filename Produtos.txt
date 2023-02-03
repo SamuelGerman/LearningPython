@@ -1,0 +1,12 @@
+Smartphone, 200, 1000.0,   1
+Laptop, 254, 1700.0,   2
+Console de jogos, 50, 1800.0,   4
+Câmera fotográfica, 100, 999.0,   5
+Smartwatch, 44, 1300.0,   6
+Fone de ouvido sem fio, 94, 250.0,   7
+Drone, 15, 2700.0,   8
+Aspirador de pó, 76, 500.0,   9
+Refrigerador inteligente, 0, 3200.0,   10
+banana, 300, 2.0,   11
+monitor, 100, 1500.0, 11
+mouse pad, 300, 50.0, 12
