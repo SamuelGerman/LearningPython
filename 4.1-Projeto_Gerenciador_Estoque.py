@@ -175,7 +175,7 @@ while opcao !=0:
             arquivo.write(", ")
             arquivo.write(str(item.codigo_produto))
             arquivo.write("\n")
-
+            arquivo.close()
         print("Saindo...")
     else:
         print("Opção inválida, escolha novamente.")
